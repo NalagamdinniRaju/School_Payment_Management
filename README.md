@@ -25,6 +25,14 @@ TransactPro is a comprehensive school payment management system that helps educa
 - 🔄 Webhook integration
 - ✏️ Manual status updates
 
+
+
+## 📺 Demo  
+[<img src="https://res.cloudinary.com/dwiq4s5ut/image/upload/v1736615227/Screenshot_715_v6lykv.png" alt="Video Icon" width="50" height="50"/>](https://drive.google.com/file/d/1rRWQb6hveufDCwiUwC4ZOk6YNZnsvZFs/view?usp=sharing)  
+
+*Click the image above to watch the demo video.*
+
+
 ## 🖥️ Screenshots
 
 ### Landing Page
