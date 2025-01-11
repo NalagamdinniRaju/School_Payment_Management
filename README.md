@@ -32,6 +32,20 @@ TransactPro is a comprehensive school payment management system that helps educa
 
 *Click the image above to watch the demo video.*
 
+## Login Credentials
+
+Here are some example login credentials for testing purposes:
+
+### User 1
+- **Email**: 📧 raju@gmail.com  
+- **Password**: 🔑 raju123  
+
+### User 2
+- **Email**: 📧 user@example.com  
+- **Password**: 🔑 password123  
+
+*Note: These credentials are for demo purposes only.*
+
 
 ## 🖥️ Screenshots
 
